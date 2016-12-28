@@ -6,7 +6,7 @@
 import pdb
 import matplotlib.pyplot as plt
 import numpy
-import calvin
+
 from light_signal import signal_state
 
 NO_JORNEYS = 100000
